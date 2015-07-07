@@ -1,0 +1,12 @@
+---
+skills:
+- id: 1
+  name: nunchuck skills
+  status: Skills are tip top shape
+- id: 4
+  name: Computer Hacking Skills
+  status: You need to work on these skills
+- id: 5
+  name: Bow Hunting Skills
+  status: You are pretty good with these skills
+total: 5
